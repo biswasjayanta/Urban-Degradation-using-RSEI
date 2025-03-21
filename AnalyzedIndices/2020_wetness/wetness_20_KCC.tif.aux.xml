@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Wetness</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-1.039748992982507</HistMin>
+        <HistMax>0.1123241144405678</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|1|0|2|0|0|0|0|1|0|0|1|0|0|0|0|1|1|0|2|0|3|3|6|9|12|17|16|10|15|17|15|18|21|15|36|47|57|60|80|94|118|140|151|153|201|236|263|275|368|417|519|690|810|959|1270|1625|2023|2426|2987|3356|3559|3659|3417|3225|3021|2583|2173|1924|1635|1376|1082|833|748|625|601|636|739|781|776|600|380|231|180|152|507|1426|1050|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.0397489929825</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.11232411444057</MDI>
+      <MDI key="STATISTICS_MEAN">0.0070191015316235</MDI>
+      <MDI key="STATISTICS_STDDEV">0.043063467623961</MDI>
+      <MDI key="STATISTICS_MEDIAN">-0.000624</MDI>
+      <MDI key="STATISTICS_COUNT">57474.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.001854462243799911</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
